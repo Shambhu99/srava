@@ -22,7 +22,7 @@ class ViewController: UIViewController,UITableViewDataSource,UITableViewDelegate
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+        print("CLASD")
         
         
         // Do any additional setup after loading the view, typically from a nib.
