@@ -14,7 +14,7 @@ class ViewController: UIViewController,UITableViewDataSource,UITableViewDelegate
    
     var imgArry = [#imageLiteral(resourceName: "elephant"),#imageLiteral(resourceName: "goat"),#imageLiteral(resourceName: "cow"),#imageLiteral(resourceName: "tiger")]
      
-    var animalArr = ["cow","Goat","Elephant","Tiger"]
+    var animalArr = ["cow","Goat","Elephant","Tiger","Monkey"]
     
     
     
